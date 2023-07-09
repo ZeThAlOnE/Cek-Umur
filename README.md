@@ -1,9 +1,14 @@
 # Cek-Umur
+
 # For Linux
+`git clone https://github.com/ZeThAlOnE/Cek-Umur.git`
 
-git clone https://github.com/ZeThAlOnE/Cek-Umur.git
+`cd Cek-Umur`
 
-cd Cek-Umur
+`python3 cek-umur.py`
+# For Termux
+`git clone https://github.com/ZeThAlOnE/Cek-Umur.git`
 
-python3 cek-umur.py
-`
+`cd Cek-Umur`
+
+`python2 cek-umur.py` / `python3 cek-umur.py`
