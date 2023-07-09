@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                    cekumur.py                                                                             
 import datetime as dt
 # module
 from os import system
